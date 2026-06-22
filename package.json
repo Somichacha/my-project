@@ -1,0 +1,16 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "My cypress initiation",
+  "license": "ISC",
+  "author": "Zion Agbai",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "cypress": "^15.16.0"
+  }
+}
